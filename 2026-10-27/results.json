@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-27",
+  "slips": [
+    {
+      "file": "pick-of-the-day",
+      "tag": "PICK OF THE DAY",
+      "result": "won",
+      "legs": [
+        {
+          "match": "Sheffield Wed v Cambridge",
+          "league": "League One",
+          "market": "Both teams to score",
+          "odds": 1.62,
+          "score": "1-1",
+          "result": "won"
+        }
+      ]
+    },
+    {
+      "file": "free-parlay",
+      "tag": "FREE PARLAY",
+      "result": "won",
+      "legs": [
+        {
+          "match": "Sassuolo v Lazio",
+          "league": "Serie A",
+          "market": "Both teams to score",
+          "odds": 1.53,
+          "score": "2-6",
+          "result": "won"
+        },
+        {
+          "match": "Roma v Cagliari",
+          "league": "Serie A",
+          "market": "Roma to win",
+          "odds": 1.35,
+          "score": "4-2",
+          "result": "won"
+        }
+      ]
+    }
+  ]
+}
