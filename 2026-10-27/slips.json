@@ -1,0 +1,84 @@
+{
+  "id": "2026-10-27",
+  "defaults": {
+    "brand_left": "DUCKY",
+    "brand_right": "BETS",
+    "subtitle": "FREE CHANNEL",
+    "date": "TUESDAY 27.10.",
+    "footer_left": "18+ · Bet responsibly",
+    "footer_right": "Kick-off times EET"
+  },
+  "slips": [
+    {
+      "file": "pick-of-the-day",
+      "tag": "PICK OF THE DAY",
+      "legs": [
+        {
+          "home": "Sheffield Wed",
+          "away": "Cambridge",
+          "home_abbr": "SWFC",
+          "home_colors": [
+            "#0E4CA1",
+            "#FFFFFF"
+          ],
+          "away_abbr": "CUFC",
+          "away_colors": [
+            "#FFB300",
+            "#111111"
+          ],
+          "league": "League One",
+          "kickoff": "21:45",
+          "market": "Both teams to score",
+          "odds": 1.62,
+          "note": "Cambridge have scored in <b>every league game</b> this season and are unbeaten in 5 away.",
+          "bookmaker": "bet365"
+        }
+      ]
+    },
+    {
+      "file": "free-parlay",
+      "tag": "FREE PARLAY",
+      "parlay_name": "DOUBLE",
+      "legs": [
+        {
+          "home": "Sassuolo",
+          "away": "Lazio",
+          "home_abbr": "SAS",
+          "home_colors": [
+            "#00A651",
+            "#FFFFFF"
+          ],
+          "away_abbr": "LAZ",
+          "away_colors": [
+            "#87D3F5",
+            "#0B2C5E"
+          ],
+          "league": "Serie A",
+          "kickoff": "19:30",
+          "market": "Both teams to score",
+          "odds": 1.53,
+          "note": "Sassuolo have <b>no clean sheet</b> yet, and all 3 of their home games saw both teams score."
+        },
+        {
+          "home": "Roma",
+          "away": "Cagliari",
+          "home_abbr": "ROM",
+          "home_colors": [
+            "#8E1F2F",
+            "#F0BC42"
+          ],
+          "away_abbr": "CAG",
+          "away_colors": [
+            "#0E1E5B",
+            "#FF4040"
+          ],
+          "league": "Serie A",
+          "kickoff": "21:45",
+          "market": "Roma to win",
+          "odds": 1.35,
+          "note": "Roma are <b>unbeaten in 8</b> with 5 clean sheets. Cagliari failed to score in 3 games."
+        }
+      ]
+    }
+  ]
+}
