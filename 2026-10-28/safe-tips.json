@@ -1,0 +1,15 @@
+{
+  "id": "2026-10-28",
+  "file": "safe-tips",
+  "date": "WEDNESDAY 28.10.",
+  "legs": [
+    {"home": "Venezia", "away": "Inter", "league": "Serie A", "kickoff": "19:30", "market": "X2", "odds": 1.08, "bookmaker": "bet365"},
+    {"home": "Parma", "away": "Udinese", "league": "Serie A", "kickoff": "19:30", "market": "Under 4.5", "odds": 1.08, "bookmaker": "bet365"},
+    {"home": "Man City", "away": "Brighton", "league": "EFL Cup", "kickoff": "21:30", "market": "Over 1.5", "odds": 1.13, "bookmaker": "bet365"},
+    {"home": "Monza", "away": "Napoli", "league": "Serie A", "kickoff": "21:45", "market": "Over 0.5", "odds": 1.04, "bookmaker": "bet365"},
+    {"home": "Genoa", "away": "Juventus", "league": "Serie A", "kickoff": "21:45", "market": "Under 4.5", "odds": 1.06, "bookmaker": "bet365"},
+    {"home": "Sunderland", "away": "Brentford", "league": "EFL Cup", "kickoff": "21:45", "market": "Under 4.5", "odds": 1.14, "bookmaker": "bet365"},
+    {"home": "Celtic", "away": "Dundee Utd", "league": "Scottish Premiership", "kickoff": "21:45", "market": "1X", "odds": 1.062, "bookmaker": "bet365"},
+    {"home": "Bayern", "away": "Magdeburg", "league": "DFB-Pokal", "kickoff": "21:45", "market": "Over 2.5", "odds": 1.11, "bookmaker": "Wincomparator (lowest of 1.11–1.16)"}
+  ]
+}
