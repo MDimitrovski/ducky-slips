@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-28",
+  "slips": [
+    {
+      "file": "pick-of-the-day",
+      "tag": "PICK OF THE DAY",
+      "result": "lost",
+      "legs": [
+        {
+          "match": "Genoa v Juventus",
+          "league": "Serie A",
+          "market": "Juventus to win",
+          "odds": 1.67,
+          "score": "2-0",
+          "result": "lost"
+        }
+      ]
+    },
+    {
+      "file": "free-parlay",
+      "tag": "FREE PARLAY",
+      "result": "lost",
+      "legs": [
+        {
+          "match": "AC Milan v Bologna",
+          "league": "Serie A",
+          "market": "AC Milan to win",
+          "odds": 1.62,
+          "score": "2-4",
+          "result": "lost"
+        },
+        {
+          "match": "Liverpool v Chelsea",
+          "league": "EFL Cup",
+          "market": "Both teams to score",
+          "odds": 1.4,
+          "score": "1-1",
+          "result": "won",
+          "note": "Liverpool won 6-5 on penalties"
+        }
+      ]
+    },
+    {
+      "file": "safe-tips",
+      "tag": "SAFE TIPS",
+      "result": "lost",
+      "legs": [
+        {
+          "match": "Venezia v Inter",
+          "league": "Serie A",
+          "market": "X2",
+          "odds": 1.08,
+          "score": "0-2",
+          "result": "won"
+        },
+        {
+          "match": "Parma v Udinese",
+          "league": "Serie A",
+          "market": "Under 4.5",
+          "odds": 1.08,
+          "score": "0-0",
+          "result": "won"
+        },
+        {
+          "match": "Man City v Brighton",
+          "league": "EFL Cup",
+          "market": "Over 1.5",
+          "odds": 1.13,
+          "score": "2-2",
+          "result": "won",
+          "note": "Man City won 4-3 on penalties"
+        },
+        {
+          "match": "Monza v Napoli",
+          "league": "Serie A",
+          "market": "Over 0.5",
+          "odds": 1.04,
+          "score": "1-4",
+          "result": "won"
+        },
+        {
+          "match": "Genoa v Juventus",
+          "league": "Serie A",
+          "market": "Under 4.5",
+          "odds": 1.06,
+          "score": "2-0",
+          "result": "won"
+        },
+        {
+          "match": "Sunderland v Brentford",
+          "league": "EFL Cup",
+          "market": "Under 4.5",
+          "odds": 1.14,
+          "score": "3-2",
+          "result": "lost"
+        },
+        {
+          "match": "Celtic v Dundee Utd",
+          "league": "Scottish Premiership",
+          "market": "1X",
+          "odds": 1.062,
+          "score": "2-2",
+          "result": "won"
+        },
+        {
+          "match": "Bayern v Magdeburg",
+          "league": "DFB-Pokal",
+          "market": "Over 2.5",
+          "odds": 1.11,
+          "score": "6-1",
+          "result": "won"
+        }
+      ]
+    }
+  ]
+}
