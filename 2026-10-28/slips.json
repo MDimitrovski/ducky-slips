@@ -1,0 +1,66 @@
+{
+  "id": "2026-10-28",
+  "defaults": {
+    "brand_left": "DUCKY",
+    "brand_right": "BETS",
+    "subtitle": "FREE CHANNEL",
+    "date": "WEDNESDAY 28.10.",
+    "footer_left": "18+ · Bet responsibly",
+    "footer_right": "Kick-off times EET"
+  },
+  "slips": [
+    {
+      "file": "pick-of-the-day",
+      "tag": "PICK OF THE DAY",
+      "legs": [
+        {
+          "home": "Genoa",
+          "away": "Juventus",
+          "home_abbr": "GEN",
+          "home_colors": ["#0A1F44", "#E4002B"],
+          "away_abbr": "JUV",
+          "away_colors": ["#111111", "#FFFFFF"],
+          "league": "Serie A",
+          "kickoff": "21:45",
+          "market": "Juventus to win",
+          "odds": 1.67,
+          "note": "All 4 Juve league wins came <b>to nil</b>, and Genoa have failed to score in the last 5 meetings.",
+          "bookmaker": "William Hill"
+        }
+      ]
+    },
+    {
+      "file": "free-parlay",
+      "tag": "FREE PARLAY",
+      "parlay_name": "DOUBLE",
+      "legs": [
+        {
+          "home": "AC Milan",
+          "away": "Bologna",
+          "home_abbr": "MIL",
+          "home_colors": ["#C8102E", "#111111"],
+          "away_abbr": "BOL",
+          "away_colors": ["#1A2F5A", "#E03A3E"],
+          "league": "Serie A",
+          "kickoff": "19:30",
+          "market": "AC Milan to win",
+          "odds": 1.62,
+          "note": "Milan have <b>not dropped a point at home</b> under Amorim. Bologna sit 15th with 5 points."
+        },
+        {
+          "home": "Liverpool",
+          "away": "Chelsea",
+          "home_abbr": "LFC",
+          "home_colors": ["#C8102E", "#FFFFFF"],
+          "away_abbr": "CFC",
+          "away_colors": ["#034694", "#FFFFFF"],
+          "league": "EFL Cup",
+          "kickoff": "22:00",
+          "market": "Both teams to score",
+          "odds": 1.40,
+          "note": "Chelsea have <b>1 league clean sheet</b> all season and scored in 8 of their 10 games."
+        }
+      ]
+    }
+  ]
+}
