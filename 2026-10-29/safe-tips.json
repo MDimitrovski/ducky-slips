@@ -1,0 +1,16 @@
+{
+  "id": "2026-10-29",
+  "file": "safe-tips",
+  "date": "THURSDAY 29.10.",
+  "legs": [
+    {"home": "Hammarby", "away": "Sirius", "league": "Allsvenskan", "kickoff": "19:30", "market": "Over 1.5", "odds": 1.14, "bookmaker": "bet365"},
+    {"home": "Frosinone", "away": "Lecce", "league": "Serie A", "kickoff": "19:30", "market": "Under 5.5", "odds": 1.125, "bookmaker": "bet365"},
+    {"home": "Örgryte", "away": "Mjällby", "league": "Allsvenskan", "kickoff": "20:00", "market": "Over 0.5", "odds": 1.04, "bookmaker": "bet365"},
+    {"home": "Kalmar", "away": "GAIS", "league": "Allsvenskan", "kickoff": "20:00", "market": "Under 4.5", "odds": 1.111, "bookmaker": "bet365"},
+    {"home": "Al Nassr", "away": "Al Kholood", "league": "Saudi Pro League", "kickoff": "20:00", "market": "Al Nassr win", "odds": 1.17, "bookmaker": "22Bet"},
+    {"home": "Everton", "away": "Newcastle", "league": "EFL Cup", "kickoff": "21:45", "market": "Under 5.5", "odds": 1.05, "bookmaker": "bet365"},
+    {"home": "Fiorentina", "away": "Atalanta", "league": "Serie A", "kickoff": "21:45", "market": "Over 0.5", "odds": 1.03, "bookmaker": "bet365"},
+    {"home": "HB Køge", "away": "Barcelona W", "league": "Women's CL", "kickoff": "22:00", "market": "Barcelona win", "odds": 1.04, "bookmaker": "futbol24 (bookmaker not named)"},
+    {"home": "Prat", "away": "Athletic", "league": "Copa del Rey", "kickoff": "22:00", "market": "Athletic win", "odds": 1.03, "bookmaker": "bet365 (via Gainblers)"}
+  ]
+}

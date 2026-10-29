@@ -1,0 +1,51 @@
+{
+  "id": "2026-10-29",
+  "defaults": {
+    "brand_left": "DUCKY",
+    "brand_right": "BETS",
+    "subtitle": "FREE CHANNEL",
+    "date": "THURSDAY 29.10.",
+    "footer_left": "18+ · Bet responsibly",
+    "footer_right": "Kick-off times EET"
+  },
+  "slips": [
+    {
+      "file": "pick-of-the-day",
+      "tag": "PICK OF THE DAY",
+      "legs": [
+        {
+          "home": "Fiorentina", "away": "Atalanta",
+          "home_abbr": "FIO", "home_colors": ["#5B2D8E", "#FFFFFF", "#FFFFFF"], "home_pattern": "solid",
+          "away_abbr": "ATA", "away_colors": ["#1E71B8", "#FFFFFF", "#111111"], "away_pattern": "stripes",
+          "league": "Serie A", "kickoff": "21:45",
+          "market": "Both teams to score", "odds": 1.50,
+          "note": "Fiorentina concede <b>2.4 goals a game</b> and Atalanta average 1.8 scored.",
+          "bookmaker": "bet365"
+        }
+      ]
+    },
+    {
+      "file": "free-parlay",
+      "tag": "FREE PARLAY",
+      "parlay_name": "DOUBLE",
+      "legs": [
+        {
+          "home": "Frosinone", "away": "Lecce",
+          "home_abbr": "FRO", "home_colors": ["#FFD200", "#0A3E8C", "#0A3E8C"], "home_pattern": "solid",
+          "away_abbr": "LEC", "away_colors": ["#FFD200", "#C8102E", "#C8102E"], "away_pattern": "stripes",
+          "league": "Serie A", "kickoff": "19:30",
+          "market": "Frosinone to win", "odds": 1.65,
+          "note": "Frosinone sit <b>6th</b> and scored in 18 of 20; Lecce blanked in 10 of 20."
+        },
+        {
+          "home": "Everton", "away": "Newcastle",
+          "home_abbr": "EVE", "home_colors": ["#003399", "#FFFFFF", "#FFFFFF"], "home_pattern": "solid",
+          "away_abbr": "NEW", "away_colors": ["#111111", "#FFFFFF", "#FFFFFF"], "away_pattern": "stripes",
+          "league": "EFL Cup", "kickoff": "21:45",
+          "market": "Over 1.5 goals", "odds": 1.22,
+          "note": "Newcastle scored in <b>17 of 20</b> and concede 1.8 goals a game."
+        }
+      ]
+    }
+  ]
+}
