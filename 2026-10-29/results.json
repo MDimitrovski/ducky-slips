@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-29",
+  "slips": [
+    {
+      "file": "pick-of-the-day",
+      "tag": "PICK OF THE DAY",
+      "result": "won",
+      "legs": [
+        {
+          "match": "Fiorentina v Atalanta",
+          "league": "Serie A",
+          "market": "Both teams to score",
+          "odds": 1.5,
+          "score": "2-2",
+          "result": "won"
+        }
+      ]
+    },
+    {
+      "file": "free-parlay",
+      "tag": "FREE PARLAY",
+      "result": "won",
+      "legs": [
+        {
+          "match": "Frosinone v Lecce",
+          "league": "Serie A",
+          "market": "Frosinone to win",
+          "odds": 1.65,
+          "score": "5-1",
+          "result": "won"
+        },
+        {
+          "match": "Everton v Newcastle",
+          "league": "EFL Cup",
+          "market": "Over 1.5 goals",
+          "odds": 1.22,
+          "score": "3-1",
+          "result": "won"
+        }
+      ]
+    },
+    {
+      "file": "safe-tips",
+      "tag": "SAFE TIPS",
+      "result": "lost",
+      "legs": [
+        {
+          "match": "Hammarby v Sirius",
+          "league": "Allsvenskan",
+          "market": "Over 1.5",
+          "odds": 1.14,
+          "score": "2-0",
+          "result": "won"
+        },
+        {
+          "match": "Frosinone v Lecce",
+          "league": "Serie A",
+          "market": "Under 5.5",
+          "odds": 1.125,
+          "score": "5-1",
+          "result": "lost"
+        },
+        {
+          "match": "Örgryte v Mjällby",
+          "league": "Allsvenskan",
+          "market": "Over 0.5",
+          "odds": 1.04,
+          "score": "1-2",
+          "result": "won"
+        },
+        {
+          "match": "Kalmar v GAIS",
+          "league": "Allsvenskan",
+          "market": "Under 4.5",
+          "odds": 1.111,
+          "score": "0-1",
+          "result": "won"
+        },
+        {
+          "match": "Al Nassr v Al Kholood",
+          "league": "Saudi Pro League",
+          "market": "Al Nassr win",
+          "odds": 1.17,
+          "score": "5-3",
+          "result": "won"
+        },
+        {
+          "match": "Everton v Newcastle",
+          "league": "EFL Cup",
+          "market": "Under 5.5",
+          "odds": 1.05,
+          "score": "3-1",
+          "result": "won"
+        },
+        {
+          "match": "Fiorentina v Atalanta",
+          "league": "Serie A",
+          "market": "Over 0.5",
+          "odds": 1.03,
+          "score": "2-2",
+          "result": "won"
+        },
+        {
+          "match": "HB Køge v Barcelona W",
+          "league": "Women's CL",
+          "market": "Barcelona win",
+          "odds": 1.04,
+          "score": "0-8",
+          "result": "won"
+        },
+        {
+          "match": "Prat v Athletic",
+          "league": "Copa del Rey",
+          "market": "Athletic win",
+          "odds": 1.03,
+          "score": "1-6",
+          "result": "won"
+        }
+      ]
+    }
+  ]
+}
