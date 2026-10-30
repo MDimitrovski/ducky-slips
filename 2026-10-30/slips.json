@@ -1,0 +1,51 @@
+{
+  "id": "2026-10-30",
+  "defaults": {
+    "brand_left": "DUCKY",
+    "brand_right": "BETS",
+    "subtitle": "FREE CHANNEL",
+    "date": "FRIDAY 30.10.",
+    "footer_left": "18+ · Bet responsibly",
+    "footer_right": "Kick-off times EET"
+  },
+  "slips": [
+    {
+      "file": "pick-of-the-day",
+      "tag": "PICK OF THE DAY",
+      "legs": [
+        {
+          "home": "Nice", "away": "Rennes",
+          "home_abbr": "NICE", "home_colors": ["#D2001F", "#FFFFFF", "#111111"], "home_pattern": "stripes",
+          "away_abbr": "SRFC", "away_colors": ["#E2001A", "#FFFFFF", "#111111"], "away_pattern": "solid",
+          "league": "Ligue 1", "kickoff": "20:00",
+          "market": "Both teams to score", "odds": 1.50,
+          "note": "Nice have conceded in <b>each of their last 17</b> Ligue 1 games; Rennes average 1.7 goals away.",
+          "bookmaker": "bet365"
+        }
+      ]
+    },
+    {
+      "file": "free-parlay",
+      "tag": "FREE PARLAY",
+      "parlay_name": "DOUBLE",
+      "legs": [
+        {
+          "home": "Villarreal", "away": "Espanyol",
+          "home_abbr": "VIL", "home_colors": ["#FFE667", "#005187", "#005187"], "home_pattern": "solid",
+          "away_abbr": "ESP", "away_colors": ["#007FC8", "#FFFFFF", "#FFFFFF"], "away_pattern": "stripes",
+          "league": "La Liga", "kickoff": "22:00",
+          "market": "Villarreal to win", "odds": 1.42,
+          "note": "Villarreal have beaten Espanyol in <b>7 straight</b> league meetings; Espanyol sit 18th."
+        },
+        {
+          "home": "Zulte Waregem", "away": "Club Brugge",
+          "home_abbr": "ZWA", "home_colors": ["#D7182A", "#FFFFFF", "#00843D"], "home_pattern": "halves",
+          "away_abbr": "CLB", "away_colors": ["#0068B3", "#FFFFFF", "#111111"], "away_pattern": "stripes",
+          "league": "Pro League", "kickoff": "21:45",
+          "market": "Club Brugge to win", "odds": 1.48,
+          "note": "Brugge have <b>won their last 5</b> league games; Waregem have lost 4 in a row."
+        }
+      ]
+    }
+  ]
+}

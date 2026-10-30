@@ -1,0 +1,11 @@
+{"id": "2026-10-30", "file": "safe-tips", "date": "FRIDAY 30.10.",
+ "legs": [
+  {"home": "Konyaspor", "away": "Galatasaray", "league": "Süper Lig", "kickoff": "19:00", "market": "Under 4.5", "odds": 1.18, "bookmaker": "bet365"},
+  {"home": "Arminia", "away": "Braunschweig", "league": "2. Bundesliga", "kickoff": "19:30", "market": "Over 0.5", "odds": 1.03, "bookmaker": "bet365"},
+  {"home": "Cottbus", "away": "Bochum", "league": "2. Bundesliga", "kickoff": "19:30", "market": "Over 1.5", "odds": 1.13, "bookmaker": "bet365"},
+  {"home": "Le Havre", "away": "PSG", "league": "Ligue 1", "kickoff": "20:00", "market": "X2", "odds": 1.06, "bookmaker": "bet365"},
+  {"home": "Elversberg", "away": "Mainz", "league": "Bundesliga", "kickoff": "21:30", "market": "Over 1.5", "odds": 1.14, "bookmaker": "bet365"},
+  {"home": "Sheffield Utd", "away": "Wrexham", "league": "Championship", "kickoff": "22:00", "market": "Under 4.5", "odds": 1.13, "bookmaker": "bet365"},
+  {"home": "Lille", "away": "Lens", "league": "Ligue 1", "kickoff": "22:05", "market": "Under 5.5", "odds": 1.05, "bookmaker": "bet365"},
+  {"home": "Casa Pia", "away": "Sporting CP", "league": "Primeira Liga", "kickoff": "22:15", "market": "X2", "odds": 1.07, "bookmaker": "bet365"}
+ ]}
