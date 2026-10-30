@@ -1,0 +1,109 @@
+{
+  "date": "2026-10-30",
+  "slips": {
+    "Pick of the Day": "won",
+    "Free Parlay": "lost",
+    "Safe Tips": "won"
+  },
+  "legs": [
+    {
+      "slip": "Pick of the Day",
+      "match": "Nice v Rennes",
+      "league": "Ligue 1",
+      "market": "Both teams to score",
+      "odds": 1.5,
+      "score": "5-2",
+      "result": "won"
+    },
+    {
+      "slip": "Free Parlay",
+      "match": "Cracovia v Motor Lublin",
+      "league": "Ekstraklasa",
+      "market": "Both teams to score",
+      "odds": 1.61,
+      "score": "1-2",
+      "result": "won"
+    },
+    {
+      "slip": "Free Parlay",
+      "match": "Gornik Zabrze v Legia",
+      "league": "Ekstraklasa",
+      "market": "Over 1.5 goals",
+      "odds": 1.28,
+      "score": "0-0",
+      "result": "lost"
+    },
+    {
+      "slip": "Safe Tips",
+      "match": "Konyaspor v Galatasaray",
+      "league": "Süper Lig",
+      "market": "Under 4.5",
+      "odds": 1.18,
+      "score": "0-4",
+      "result": "won"
+    },
+    {
+      "slip": "Safe Tips",
+      "match": "Arminia v Braunschweig",
+      "league": "2. Bundesliga",
+      "market": "Over 0.5",
+      "odds": 1.03,
+      "score": "2-0",
+      "result": "won"
+    },
+    {
+      "slip": "Safe Tips",
+      "match": "Cottbus v Bochum",
+      "league": "2. Bundesliga",
+      "market": "Over 1.5",
+      "odds": 1.13,
+      "score": "1-2",
+      "result": "won"
+    },
+    {
+      "slip": "Safe Tips",
+      "match": "Le Havre v PSG",
+      "league": "Ligue 1",
+      "market": "X2",
+      "odds": 1.06,
+      "score": "1-5",
+      "result": "won"
+    },
+    {
+      "slip": "Safe Tips",
+      "match": "Elversberg v Mainz",
+      "league": "Bundesliga",
+      "market": "Over 1.5",
+      "odds": 1.14,
+      "score": "4-1",
+      "result": "won"
+    },
+    {
+      "slip": "Safe Tips",
+      "match": "Sheffield Utd v Wrexham",
+      "league": "Championship",
+      "market": "Under 4.5",
+      "odds": 1.13,
+      "score": "1-0",
+      "result": "won"
+    },
+    {
+      "slip": "Safe Tips",
+      "match": "Lille v Lens",
+      "league": "Ligue 1",
+      "market": "Under 5.5",
+      "odds": 1.05,
+      "score": "1-0",
+      "result": "won"
+    },
+    {
+      "slip": "Safe Tips",
+      "match": "Casa Pia v Sporting CP",
+      "league": "Primeira Liga",
+      "market": "X2",
+      "odds": 1.07,
+      "score": "0-1",
+      "result": "won"
+    }
+  ]
+}
