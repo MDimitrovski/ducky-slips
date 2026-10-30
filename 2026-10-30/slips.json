@@ -14,11 +14,26 @@
       "tag": "PICK OF THE DAY",
       "legs": [
         {
-          "home": "Nice", "away": "Rennes",
-          "home_abbr": "NICE", "home_colors": ["#D2001F", "#FFFFFF", "#111111"], "home_pattern": "stripes",
-          "away_abbr": "SRFC", "away_colors": ["#E2001A", "#FFFFFF", "#111111"], "away_pattern": "solid",
-          "league": "Ligue 1", "kickoff": "20:00",
-          "market": "Both teams to score", "odds": 1.50,
+          "home": "Nice",
+          "away": "Rennes",
+          "home_abbr": "NICE",
+          "home_colors": [
+            "#D2001F",
+            "#FFFFFF",
+            "#111111"
+          ],
+          "home_pattern": "stripes",
+          "away_abbr": "SRFC",
+          "away_colors": [
+            "#E2001A",
+            "#FFFFFF",
+            "#111111"
+          ],
+          "away_pattern": "solid",
+          "league": "Ligue 1",
+          "kickoff": "20:00",
+          "market": "Both teams to score",
+          "odds": 1.5,
           "note": "Nice have conceded in <b>each of their last 17</b> Ligue 1 games; Rennes average 1.7 goals away.",
           "bookmaker": "bet365"
         }
@@ -30,20 +45,50 @@
       "parlay_name": "DOUBLE",
       "legs": [
         {
-          "home": "Villarreal", "away": "Espanyol",
-          "home_abbr": "VIL", "home_colors": ["#FFE667", "#005187", "#005187"], "home_pattern": "solid",
-          "away_abbr": "ESP", "away_colors": ["#007FC8", "#FFFFFF", "#FFFFFF"], "away_pattern": "stripes",
-          "league": "La Liga", "kickoff": "22:00",
-          "market": "Villarreal to win", "odds": 1.42,
-          "note": "Villarreal have beaten Espanyol in <b>7 straight</b> league meetings; Espanyol sit 18th."
+          "home": "Cracovia",
+          "away": "Motor Lublin",
+          "home_abbr": "CRA",
+          "home_colors": [
+            "#E30613",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "home_pattern": "stripes",
+          "away_abbr": "MOT",
+          "away_colors": [
+            "#FFD200",
+            "#003B8E",
+            "#003B8E"
+          ],
+          "away_pattern": "solid",
+          "league": "Ekstraklasa",
+          "kickoff": "19:00",
+          "market": "Both teams to score",
+          "odds": 1.61,
+          "note": "Cracovia have <b>scored in 5 straight</b>; Motor score 1.6 and concede 2.0 per away game."
         },
         {
-          "home": "Zulte Waregem", "away": "Club Brugge",
-          "home_abbr": "ZWA", "home_colors": ["#D7182A", "#FFFFFF", "#00843D"], "home_pattern": "halves",
-          "away_abbr": "CLB", "away_colors": ["#0068B3", "#FFFFFF", "#111111"], "away_pattern": "stripes",
-          "league": "Pro League", "kickoff": "21:45",
-          "market": "Club Brugge to win", "odds": 1.48,
-          "note": "Brugge have <b>won their last 5</b> league games; Waregem have lost 4 in a row."
+          "home": "Gornik Zabrze",
+          "away": "Legia",
+          "home_abbr": "GOR",
+          "home_colors": [
+            "#0047AB",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "home_pattern": "solid",
+          "away_abbr": "LEG",
+          "away_colors": [
+            "#00873C",
+            "#FFFFFF",
+            "#111111"
+          ],
+          "away_pattern": "solid",
+          "league": "Ekstraklasa",
+          "kickoff": "21:30",
+          "market": "Over 1.5 goals",
+          "odds": 1.28,
+          "note": "Legia have <b>conceded in each of their last 11</b>; Gornik score 2.1 a game at home."
         }
       ]
     }
