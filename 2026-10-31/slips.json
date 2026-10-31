@@ -17,10 +17,18 @@
           "home": "Chelsea",
           "away": "Man Utd",
           "home_abbr": "CFC",
-          "home_colors": ["#034694", "#FFFFFF", "#FFFFFF"],
+          "home_colors": [
+            "#034694",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
           "home_pattern": "solid",
           "away_abbr": "MUFC",
-          "away_colors": ["#DA291C", "#FFFFFF", "#111111"],
+          "away_colors": [
+            "#DA291C",
+            "#FFFFFF",
+            "#111111"
+          ],
           "away_pattern": "solid",
           "league": "Premier League",
           "kickoff": "14:30",
@@ -37,35 +45,51 @@
       "parlay_name": "DOUBLE",
       "legs": [
         {
-          "home": "Levante",
-          "away": "Atlético",
-          "home_abbr": "LUD",
-          "home_colors": ["#004D98", "#FFFFFF", "#B4053F"],
-          "home_pattern": "stripes",
-          "away_abbr": "ATM",
-          "away_colors": ["#CB3524", "#FFFFFF", "#FFFFFF"],
-          "away_pattern": "stripes",
-          "league": "La Liga",
-          "kickoff": "15:00",
-          "market": "Atlético to win",
-          "odds": 1.53,
-          "note": "Atlético have won <b>6 league games in a row</b>, including 4 of their 5 away games.",
-          "bookmaker": "bet365"
-        },
-        {
           "home": "Real Betis",
           "away": "Málaga",
           "home_abbr": "RBB",
-          "home_colors": ["#00954C", "#FFFFFF", "#FFFFFF"],
+          "home_colors": [
+            "#00954C",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
           "home_pattern": "stripes",
           "away_abbr": "MCF",
-          "away_colors": ["#0B4EA2", "#FFFFFF", "#FFFFFF"],
+          "away_colors": [
+            "#0B4EA2",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
           "away_pattern": "stripes",
           "league": "La Liga",
           "kickoff": "19:30",
           "market": "Betis to win",
-          "odds": 1.30,
+          "odds": 1.3,
           "note": "Bottom side Málaga are <b>winless in 10</b> La Liga games (5D 5L); Betis sit 4th.",
+          "bookmaker": "bet365"
+        },
+        {
+          "home": "Aston Villa",
+          "away": "Fulham",
+          "home_abbr": "AVFC",
+          "home_colors": [
+            "#670E36",
+            "#FFFFFF",
+            "#95BFE5"
+          ],
+          "home_pattern": "solid",
+          "away_abbr": "FFC",
+          "away_colors": [
+            "#FFFFFF",
+            "#111111",
+            "#111111"
+          ],
+          "away_pattern": "solid",
+          "league": "Premier League",
+          "kickoff": "22:00",
+          "market": "Under 3.5 goals",
+          "odds": 1.5,
+          "note": "Fulham score just <b>0.9 goals per game</b>; the model predicts only 2.4 goals here.",
           "bookmaker": "bet365"
         }
       ]
