@@ -1,0 +1,74 @@
+{
+  "id": "2026-10-31",
+  "defaults": {
+    "brand_left": "DUCKY",
+    "brand_right": "BETS",
+    "subtitle": "FREE CHANNEL",
+    "date": "SATURDAY 31.10.",
+    "footer_left": "18+ · Bet responsibly",
+    "footer_right": "Kick-off times EET"
+  },
+  "slips": [
+    {
+      "file": "pick-of-the-day",
+      "tag": "PICK OF THE DAY",
+      "legs": [
+        {
+          "home": "Chelsea",
+          "away": "Man Utd",
+          "home_abbr": "CFC",
+          "home_colors": ["#034694", "#FFFFFF", "#FFFFFF"],
+          "home_pattern": "solid",
+          "away_abbr": "MUFC",
+          "away_colors": ["#DA291C", "#FFFFFF", "#111111"],
+          "away_pattern": "solid",
+          "league": "Premier League",
+          "kickoff": "14:30",
+          "market": "Both teams to score",
+          "odds": 1.53,
+          "note": "Chelsea score 2.1 but concede <b>1.9 goals per game</b>; Man Utd average 1.3 goals a game.",
+          "bookmaker": "bet365"
+        }
+      ]
+    },
+    {
+      "file": "free-parlay",
+      "tag": "FREE PARLAY",
+      "parlay_name": "DOUBLE",
+      "legs": [
+        {
+          "home": "Levante",
+          "away": "Atlético",
+          "home_abbr": "LUD",
+          "home_colors": ["#004D98", "#FFFFFF", "#B4053F"],
+          "home_pattern": "stripes",
+          "away_abbr": "ATM",
+          "away_colors": ["#CB3524", "#FFFFFF", "#FFFFFF"],
+          "away_pattern": "stripes",
+          "league": "La Liga",
+          "kickoff": "15:00",
+          "market": "Atlético to win",
+          "odds": 1.53,
+          "note": "Atlético have won <b>6 league games in a row</b>, including 4 of their 5 away games.",
+          "bookmaker": "bet365"
+        },
+        {
+          "home": "Real Betis",
+          "away": "Málaga",
+          "home_abbr": "RBB",
+          "home_colors": ["#00954C", "#FFFFFF", "#FFFFFF"],
+          "home_pattern": "stripes",
+          "away_abbr": "MCF",
+          "away_colors": ["#0B4EA2", "#FFFFFF", "#FFFFFF"],
+          "away_pattern": "stripes",
+          "league": "La Liga",
+          "kickoff": "19:30",
+          "market": "Betis to win",
+          "odds": 1.30,
+          "note": "Bottom side Málaga are <b>winless in 10</b> La Liga games (5D 5L); Betis sit 4th.",
+          "bookmaker": "bet365"
+        }
+      ]
+    }
+  ]
+}

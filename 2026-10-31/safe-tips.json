@@ -1,0 +1,12 @@
+{"id": "2026-10-31", "file": "safe-tips", "date": "SATURDAY 31.10.",
+ "legs": [
+  {"home": "Kaiserslautern", "away": "Hertha", "league": "2. Bundesliga", "kickoff": "14:00", "market": "Over 0.5", "odds": 1.03, "bookmaker": "bet365"},
+  {"home": "Man City", "away": "Brighton", "league": "Premier League", "kickoff": "17:00", "market": "Over 1.5", "odds": 1.11, "bookmaker": "bet365"},
+  {"home": "Bournemouth", "away": "Leeds", "league": "Premier League", "kickoff": "17:00", "market": "Under 4.5", "odds": 1.13, "bookmaker": "bet365"},
+  {"home": "Coventry", "away": "Sunderland", "league": "Premier League", "kickoff": "17:00", "market": "Under 4.5", "odds": 1.111, "bookmaker": "bet365"},
+  {"home": "Hull", "away": "Ipswich", "league": "Premier League", "kickoff": "17:00", "market": "Over 0.5", "odds": 1.05, "bookmaker": "bet365"},
+  {"home": "Rayo", "away": "Celta", "league": "La Liga", "kickoff": "17:15", "market": "Under 4.5", "odds": 1.083, "bookmaker": "bet365"},
+  {"home": "Spurs", "away": "C Palace", "league": "Premier League", "kickoff": "19:30", "market": "Under 5.5", "odds": 1.07, "bookmaker": "bet365"},
+  {"home": "Karlsruher", "away": "Heidenheim", "league": "2. Bundesliga", "kickoff": "21:30", "market": "Over 1.5", "odds": 1.143, "bookmaker": "bet365"},
+  {"home": "Barcelona", "away": "Alavés", "league": "La Liga", "kickoff": "22:00", "market": "Over 1.5", "odds": 1.06, "bookmaker": "bet365"}
+ ]}
