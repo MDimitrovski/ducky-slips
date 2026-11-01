@@ -14,28 +14,28 @@
       "tag": "PICK OF THE DAY",
       "legs": [
         {
-          "home": "Marseille",
-          "away": "Toulouse",
-          "home_abbr": "OM",
+          "home": "Paris FC",
+          "away": "Monaco",
+          "home_abbr": "PFC",
           "home_colors": [
+            "#0B1F4B",
             "#FFFFFF",
-            "#111111",
-            "#2FAEE0"
+            "#6CB4E4"
           ],
           "home_pattern": "solid",
-          "away_abbr": "TFC",
+          "away_abbr": "ASM",
           "away_colors": [
-            "#5B2C83",
+            "#E30613",
             "#FFFFFF",
             "#FFFFFF"
           ],
-          "away_pattern": "solid",
+          "away_pattern": "halves",
           "league": "Ligue 1",
-          "kickoff": "21:45",
-          "market": "Over 2.5 goals",
-          "odds": 1.57,
+          "kickoff": "18:15",
+          "market": "Both teams to score",
+          "odds": 1.67,
           "bookmaker": "bet365",
-          "note": "Marseille average <b>2.3 scored and 1.6 conceded</b> per game and have won their last three."
+          "note": "Monaco have <b>conceded in each of their last 6</b> Ligue 1 games. Paris FC scored 9 in 4 home games."
         }
       ]
     },
