@@ -1,0 +1,114 @@
+{
+  "id": "2026-11-01",
+  "slips": {
+    "Pick of the Day": "won",
+    "Free Parlay": "won",
+    "Safe Tips": "lost"
+  },
+  "legs": [
+    {
+      "slip": "Pick of the Day",
+      "match": "Paris FC v Monaco",
+      "market": "Both teams to score",
+      "odds": 1.67,
+      "score": "3-1",
+      "result": "won"
+    },
+    {
+      "slip": "Free Parlay",
+      "match": "Lazio v Cagliari",
+      "market": "Lazio to win",
+      "odds": 1.42,
+      "score": "2-1",
+      "result": "won"
+    },
+    {
+      "slip": "Free Parlay",
+      "match": "Lyon v Angers",
+      "market": "Lyon to win",
+      "odds": 1.4,
+      "score": "2-0",
+      "result": "won"
+    },
+    {
+      "slip": "Safe Tips",
+      "match": "Como v Venezia",
+      "market": "1X",
+      "odds": 1.071,
+      "score": "1-0",
+      "result": "won"
+    },
+    {
+      "slip": "Safe Tips",
+      "match": "Falkirk v Celtic",
+      "market": "X2",
+      "odds": 1.17,
+      "score": "2-0",
+      "result": "lost"
+    },
+    {
+      "slip": "Safe Tips",
+      "match": "Getafe v Sevilla",
+      "market": "Under 4.5",
+      "odds": 1.05,
+      "score": "3-1",
+      "result": "won"
+    },
+    {
+      "slip": "Safe Tips",
+      "match": "Strasbourg v Auxerre",
+      "market": "Under 5.5",
+      "odds": 1.083,
+      "score": "5-1",
+      "result": "lost"
+    },
+    {
+      "slip": "Safe Tips",
+      "match": "Racing v Real Madrid",
+      "market": "X2",
+      "odds": 1.06,
+      "score": "0-3",
+      "result": "won"
+    },
+    {
+      "slip": "Safe Tips",
+      "match": "Liverpool v Arsenal",
+      "market": "Over 0.5",
+      "odds": 1.05,
+      "score": "0-1",
+      "result": "won"
+    },
+    {
+      "slip": "Safe Tips",
+      "match": "Lecce v Genoa",
+      "market": "Under 4.5",
+      "odds": 1.06,
+      "score": "1-2",
+      "result": "won"
+    },
+    {
+      "slip": "Safe Tips",
+      "match": "Elche v Valencia",
+      "market": "Under 4.5",
+      "odds": 1.111,
+      "score": "0-1",
+      "result": "won"
+    },
+    {
+      "slip": "Safe Tips",
+      "match": "Juventus v Napoli",
+      "market": "Under 4.5",
+      "odds": 1.11,
+      "score": "2-0",
+      "result": "won"
+    },
+    {
+      "slip": "Safe Tips",
+      "match": "Athletic v Real Sociedad",
+      "market": "Over 0.5",
+      "odds": 1.04,
+      "score": "2-1",
+      "result": "won"
+    }
+  ]
+}
