@@ -1,0 +1,97 @@
+{
+ "id": "2026-11-01",
+ "file": "safe-tips",
+ "date": "SUNDAY 01.11.",
+ "legs": [
+  {
+   "home": "Como",
+   "away": "Venezia",
+   "league": "Serie A",
+   "kickoff": "13:30",
+   "market": "1X",
+   "odds": 1.071,
+   "bookmaker": "bet365"
+  },
+  {
+   "home": "Falkirk",
+   "away": "Celtic",
+   "league": "Scottish Prem",
+   "kickoff": "15:00",
+   "market": "X2",
+   "odds": 1.17,
+   "bookmaker": "bet365"
+  },
+  {
+   "home": "Getafe",
+   "away": "Sevilla",
+   "league": "La Liga",
+   "kickoff": "15:00",
+   "market": "Under 4.5",
+   "odds": 1.05,
+   "bookmaker": "bet365"
+  },
+  {
+   "home": "Strasbourg",
+   "away": "Auxerre",
+   "league": "Ligue 1",
+   "kickoff": "16:00",
+   "market": "Under 5.5",
+   "odds": 1.083,
+   "bookmaker": "bet365"
+  },
+  {
+   "home": "Racing",
+   "away": "Real Madrid",
+   "league": "La Liga",
+   "kickoff": "17:15",
+   "market": "X2",
+   "odds": 1.06,
+   "bookmaker": "bet365"
+  },
+  {
+   "home": "Liverpool",
+   "away": "Arsenal",
+   "league": "Premier League",
+   "kickoff": "18:30",
+   "market": "Over 0.5",
+   "odds": 1.05,
+   "bookmaker": "bet365"
+  },
+  {
+   "home": "Lecce",
+   "away": "Genoa",
+   "league": "Serie A",
+   "kickoff": "19:00",
+   "market": "Under 4.5",
+   "odds": 1.06,
+   "bookmaker": "bet365"
+  },
+  {
+   "home": "Elche",
+   "away": "Valencia",
+   "league": "La Liga",
+   "kickoff": "19:30",
+   "market": "Under 4.5",
+   "odds": 1.111,
+   "bookmaker": "bet365"
+  },
+  {
+   "home": "Juventus",
+   "away": "Napoli",
+   "league": "Serie A",
+   "kickoff": "21:45",
+   "market": "Under 4.5",
+   "odds": 1.11,
+   "bookmaker": "bet365"
+  },
+  {
+   "home": "Athletic",
+   "away": "Real Sociedad",
+   "league": "La Liga",
+   "kickoff": "22:00",
+   "market": "Over 0.5",
+   "odds": 1.04,
+   "bookmaker": "bet365"
+  }
+ ]
+}
