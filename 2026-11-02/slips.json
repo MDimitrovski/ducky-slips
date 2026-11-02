@@ -1,0 +1,98 @@
+{
+ "id": "2026-11-02",
+ "defaults": {
+  "brand_left": "DUCKY",
+  "brand_right": "BETS",
+  "subtitle": "FREE CHANNEL",
+  "date": "MONDAY 02.11.",
+  "footer_left": "18+ · Bet responsibly",
+  "footer_right": "Kick-off times EET"
+ },
+ "slips": [
+  {
+   "file": "pick-of-the-day",
+   "tag": "PICK OF THE DAY",
+   "legs": [
+    {
+     "home": "Sassuolo",
+     "away": "Fiorentina",
+     "home_abbr": "SAS",
+     "home_colors": [
+      "#00A651",
+      "#FFFFFF",
+      "#111111"
+     ],
+     "home_pattern": "stripes",
+     "away_abbr": "FIO",
+     "away_colors": [
+      "#5B2C86",
+      "#FFFFFF",
+      "#FFFFFF"
+     ],
+     "away_pattern": "solid",
+     "league": "Serie A",
+     "kickoff": "19:30",
+     "market": "Over 2.5 goals",
+     "odds": 1.57,
+     "bookmaker": "bet365",
+     "note": "Neither side has a <b>clean sheet in 9 league games</b>. Sassuolo's games average 4 goals."
+    }
+   ]
+  },
+  {
+   "file": "free-parlay",
+   "tag": "FREE PARLAY",
+   "parlay_name": "DOUBLE",
+   "legs": [
+    {
+     "home": "Atalanta",
+     "away": "Parma",
+     "home_abbr": "ATA",
+     "home_colors": [
+      "#1E71B8",
+      "#FFFFFF",
+      "#111111"
+     ],
+     "home_pattern": "stripes",
+     "away_abbr": "PAR",
+     "away_colors": [
+      "#FFFFFF",
+      "#111111",
+      "#FFD200"
+     ],
+     "away_pattern": "solid",
+     "league": "Serie A",
+     "kickoff": "21:45",
+     "market": "Atalanta to win",
+     "odds": 1.5,
+     "bookmaker": "bet365",
+     "note": "Parma are the <b>league's lowest scorers</b> (5 in 9) and lost 5 of their last 6 trips to Bergamo."
+    },
+    {
+     "home": "Benfica",
+     "away": "Alverca",
+     "home_abbr": "SLB",
+     "home_colors": [
+      "#E30613",
+      "#FFFFFF",
+      "#FFFFFF"
+     ],
+     "home_pattern": "solid",
+     "away_abbr": "FCA",
+     "away_colors": [
+      "#C8102E",
+      "#FFFFFF",
+      "#FFFFFF"
+     ],
+     "away_pattern": "solid",
+     "league": "Primeira Liga",
+     "kickoff": "22:15",
+     "market": "Over 2.5 goals",
+     "odds": 1.36,
+     "bookmaker": "bet365",
+     "note": "Benfica have <b>26 goals in 9</b> league games. Alverca have conceded 13 in 9."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "id": "2026-11-02",
+ "file": "safe-tips",
+ "date": "MONDAY 02.11.",
+ "legs": [
+  {
+   "home": "Gençlerbirliği",
+   "away": "Alanyaspor",
+   "league": "Süper Lig",
+   "kickoff": "19:00",
+   "market": "Under 4.5",
+   "odds": 1.1,
+   "bookmaker": "bet365"
+  },
+  {
+   "home": "Atalanta",
+   "away": "Parma",
+   "league": "Serie A",
+   "kickoff": "21:45",
+   "market": "1X",
+   "odds": 1.13,
+   "bookmaker": "bet365"
+  },
+  {
+   "home": "Lorient",
+   "away": "Brest",
+   "league": "Ligue 1",
+   "kickoff": "21:45",
+   "market": "Under 4.5",
+   "odds": 1.1,
+   "bookmaker": "bet365"
+  },
+  {
+   "home": "Newcastle",
+   "away": "Everton",
+   "league": "Premier League",
+   "kickoff": "22:00",
+   "market": "Over 0.5",
+   "odds": 1.04,
+   "bookmaker": "bet365"
+  },
+  {
+   "home": "Deportivo",
+   "away": "Osasuna",
+   "league": "La Liga",
+   "kickoff": "22:00",
+   "market": "Under 4.5",
+   "odds": 1.08,
+   "bookmaker": "bet365"
+  },
+  {
+   "home": "Mallorca",
+   "away": "Cádiz",
+   "league": "LaLiga 2",
+   "kickoff": "22:00",
+   "market": "Under 4.5",
+   "odds": 1.11,
+   "bookmaker": "footballpredictions.com (book unnamed)"
+  },
+  {
+   "home": "Benfica",
+   "away": "Alverca",
+   "league": "Primeira Liga",
+   "kickoff": "22:15",
+   "market": "Over 1.5",
+   "odds": 1.111,
+   "bookmaker": "bet365"
+  },
+  {
+   "home": "Gil Vicente",
+   "away": "Guimarães",
+   "league": "Primeira Liga",
+   "kickoff": "22:15",
+   "market": "Under 4.5",
+   "odds": 1.071,
+   "bookmaker": "bet365"
+  }
+ ]
+}
